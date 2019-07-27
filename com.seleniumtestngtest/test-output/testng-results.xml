@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="220084" started-at="2019-07-27T07:15:13Z" finished-at="2019-07-27T07:18:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="220084" started-at="2019-07-27T07:15:13Z" finished-at="2019-07-27T07:18:53Z">
+      <class name="com.seleniumtestngtest.mainClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="8790" started-at="2019-07-27T07:15:13Z" finished-at="2019-07-27T07:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Title()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="Title" duration-ms="375" started-at="2019-07-27T07:15:22Z" finished-at="2019-07-27T07:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="665" started-at="2019-07-27T07:15:22Z" finished-at="2019-07-27T07:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7717" started-at="2019-07-27T07:15:23Z" finished-at="2019-07-27T07:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekLoginTrue()[pri:1, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekLoginTrue" duration-ms="2290" started-at="2019-07-27T07:15:31Z" finished-at="2019-07-27T07:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekLoginTrue -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="382" started-at="2019-07-27T07:15:33Z" finished-at="2019-07-27T07:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7291" started-at="2019-07-27T07:15:33Z" finished-at="2019-07-27T07:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekLogout()[pri:2, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekLogout" duration-ms="3015" started-at="2019-07-27T07:15:41Z" finished-at="2019-07-27T07:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekLogout -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="429" started-at="2019-07-27T07:15:44Z" finished-at="2019-07-27T07:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7241" started-at="2019-07-27T07:15:44Z" finished-at="2019-07-27T07:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekLoginFailed()[pri:3, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekLoginFailed" duration-ms="2468" started-at="2019-07-27T07:15:51Z" finished-at="2019-07-27T07:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekLoginFailed -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="424" started-at="2019-07-27T07:15:54Z" finished-at="2019-07-27T07:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7070" started-at="2019-07-27T07:15:54Z" finished-at="2019-07-27T07:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekFormLogin()[pri:4, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekFormLogin" duration-ms="3357" started-at="2019-07-27T07:16:01Z" finished-at="2019-07-27T07:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekFormLogin -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="393" started-at="2019-07-27T07:16:05Z" finished-at="2019-07-27T07:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7562" started-at="2019-07-27T07:16:05Z" finished-at="2019-07-27T07:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekMenuDataKasir_CURD()[pri:5, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekMenuDataKasir_CURD" duration-ms="5212" started-at="2019-07-27T07:16:13Z" finished-at="2019-07-27T07:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekMenuDataKasir_CURD -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="443" started-at="2019-07-27T07:16:18Z" finished-at="2019-07-27T07:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="8309" started-at="2019-07-27T07:16:18Z" finished-at="2019-07-27T07:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekFormDataKasir()[pri:6, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekFormDataKasir" duration-ms="6932" started-at="2019-07-27T07:16:27Z" finished-at="2019-07-27T07:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekFormDataKasir -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="424" started-at="2019-07-27T07:16:33Z" finished-at="2019-07-27T07:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7512" started-at="2019-07-27T07:16:34Z" finished-at="2019-07-27T07:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekMenuDataKategori_CURD()[pri:7, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekMenuDataKategori_CURD" duration-ms="5373" started-at="2019-07-27T07:16:41Z" finished-at="2019-07-27T07:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekMenuDataKategori_CURD -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="473" started-at="2019-07-27T07:16:47Z" finished-at="2019-07-27T07:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7694" started-at="2019-07-27T07:16:47Z" finished-at="2019-07-27T07:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekFormDataKategori()[pri:8, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekFormDataKategori" duration-ms="6938" started-at="2019-07-27T07:16:55Z" finished-at="2019-07-27T07:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekFormDataKategori -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="424" started-at="2019-07-27T07:17:02Z" finished-at="2019-07-27T07:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7886" started-at="2019-07-27T07:17:02Z" finished-at="2019-07-27T07:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekMenuDataSuplayer_CURD()[pri:9, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekMenuDataSuplayer_CURD" duration-ms="7062" started-at="2019-07-27T07:17:10Z" finished-at="2019-07-27T07:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekMenuDataSuplayer_CURD -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="1072" started-at="2019-07-27T07:17:17Z" finished-at="2019-07-27T07:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7626" started-at="2019-07-27T07:17:18Z" finished-at="2019-07-27T07:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekFormDataSuplayer()[pri:10, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekFormDataSuplayer" duration-ms="7216" started-at="2019-07-27T07:17:26Z" finished-at="2019-07-27T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekFormDataSuplayer -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="403" started-at="2019-07-27T07:17:33Z" finished-at="2019-07-27T07:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="6984" started-at="2019-07-27T07:17:34Z" finished-at="2019-07-27T07:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekMenuDataBarang_CURD()[pri:11, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekMenuDataBarang_CURD" duration-ms="10282" started-at="2019-07-27T07:17:41Z" finished-at="2019-07-27T07:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekMenuDataBarang_CURD -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="502" started-at="2019-07-27T07:17:51Z" finished-at="2019-07-27T07:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7097" started-at="2019-07-27T07:17:51Z" finished-at="2019-07-27T07:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekFormDataBarang()[pri:12, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekFormDataBarang" duration-ms="29158" started-at="2019-07-27T07:17:58Z" finished-at="2019-07-27T07:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekFormDataBarang -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="500" started-at="2019-07-27T07:18:28Z" finished-at="2019-07-27T07:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setUp" is-config="true" duration-ms="7429" started-at="2019-07-27T07:18:28Z" finished-at="2019-07-27T07:18:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cekTransaksiPembelian()[pri:13, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="cekTransaksiPembelian" duration-ms="16258" started-at="2019-07-27T07:18:36Z" finished-at="2019-07-27T07:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekTransaksiPembelian -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:com.seleniumtestngtest.mainClass@1bce4f0a]" name="setDown" is-config="true" duration-ms="1359" started-at="2019-07-27T07:18:52Z" finished-at="2019-07-27T07:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+      </class> <!-- com.seleniumtestngtest.mainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

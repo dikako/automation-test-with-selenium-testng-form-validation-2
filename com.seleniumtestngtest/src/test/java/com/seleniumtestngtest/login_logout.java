@@ -19,7 +19,8 @@ public class login_logout {
 		assert driver.findElement(By.xpath("//b[contains(text(),'Anda berhasil login')]")).getText()
 				.contains("Anda berhasil login");
 		driver.findElement(By.linkText("Logout")).click();
-		assert driver.findElement(By.xpath("/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/div[1]/b[1]")).getText()
+		assert driver.findElement(
+				By.xpath("/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/div[1]/b[1]")).getText()
 		.contains("Anda belum login, silahkan login untuk mengakses sitem ini");
 		
 	}
